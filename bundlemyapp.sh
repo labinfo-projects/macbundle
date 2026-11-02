@@ -81,7 +81,7 @@ cat > "$APP_DIR/Contents/Info.plist" << EOF
     <string>$APP_NAME</string>
 
     <key>CFBundleIdentifier</key>
-    <string>com.giorgioruffa.$APP_NAME</string>
+    <string>com.mionome.$APP_NAME</string>
 
     <key>CFBundleVersion</key>
     <string>1.0</string>
